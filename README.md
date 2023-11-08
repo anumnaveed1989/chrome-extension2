@@ -1,6 +1,6 @@
 <img src="src/assets/img/icon-128.png" width="64"/>
 
-# Chrome Extension (MV3) Boilerplate with React 18 and Webpack 5
+# A basic chrome extension built using React
 
 [![npm](https://img.shields.io/npm/v/chrome-extension-basic)](https://www.npmjs.com/package/chrome-extension-basic)
 [![npm-download](https://img.shields.io/npm/dw/chrome-extension-basic)](https://www.npmjs.com/package/chrome-extension-basic)
@@ -147,4 +147,4 @@ ApiCall({ key: secrets.key });
 
 ---
 
-Michael Xieyang Liu | [Website](https://lxieyang.github.io)
+Anum Naveed | [Website](https://devticks.com)
